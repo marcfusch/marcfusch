@@ -15,7 +15,7 @@
 
 ### About me
 
-Second-year engineering student at Télécom Paris, specialising in **Embedded Systems** and **Large-scale Digital Infrastructure**. I'm looking for a 6-month final-year internship starting January 2027.
+Third-year engineering student at Télécom Paris, specialising in **Embedded Systems** and **Large-scale Digital Infrastructure**. I'm looking for a 6-month final-year internship starting January 2027.
 
 - 🔧 I write **bare-metal C & Rust** on microcontrollers (STM32, ESP32) and **RTL in SystemVerilog** on FPGAs.
 - ☁️ I break and rebuild my own **self-hosted infra** — Docker, Kubernetes, Terraform, Ansible.
