@@ -13,19 +13,9 @@
 
 ---
 
-### 🧠 About me
+### About me
 
-```rust
-fn main() {
-    let marc = Engineer {
-        school:   "Télécom Paris",
-        tracks:   ["Embedded Systems", "Large-scale Digital Infrastructure"],
-        loves:    ["bare-metal Rust", "FPGAs", "self-hosting", "live sound"],
-        seeking:  "6-month final-year internship — Jan 2027",
-    };
-    marc.build_cool_things();
-}
-```
+Second-year engineering student at Télécom Paris, specialising in **Embedded Systems** and **Large-scale Digital Infrastructure**. I'm looking for a 6-month final-year internship starting January 2027.
 
 - 🔧 I write **bare-metal C & Rust** on microcontrollers (STM32, ESP32) and **RTL in SystemVerilog** on FPGAs.
 - ☁️ I break and rebuild my own **self-hosted infra** — Docker, Kubernetes, Terraform, Ansible.
@@ -55,12 +45,12 @@ fn main() {
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcfusch&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcfusch&layout=compact&theme=nord&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcfusch&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcfusch&layout=compact&theme=nord&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marcfusch&theme=nord&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=marcfusch&theme=nord&hide_border=true" />
 </p>
 
 <p align="center">
