@@ -18,7 +18,7 @@
 Third-year engineering student at Télécom Paris, specialising in **Embedded Systems** and **Large-scale Digital Infrastructure**. I'm looking for a 6-month final-year internship starting January 2027.
 
 - 🔧 I write **bare-metal C & Rust** on microcontrollers (STM32, ESP32) and **RTL in SystemVerilog** on FPGAs.
-- ☁️ I break and rebuild my own **self-hosted infra** — Docker, Kubernetes, Terraform, Ansible.
+- ☁️ I break and rebuild my own **self-hosted infra** : Docker, Kubernetes, Terraform, Ansible.
 - 🎚️ Off-screen I'm a **sound & light engineer**: PA tuning, mixing, DJing, lighting on grandMA2.
 - 🌱 Currently going deeper into **real-time signal processing** and **audio DSP**.
 
@@ -40,23 +40,3 @@ Third-year engineering student at Télécom Paris, specialising in **Embedded Sy
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
----
-
-### 📊 GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=marcfusch&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcfusch&layout=compact&theme=nord&hide_border=true&langs_count=8&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=marcfusch&theme=nord&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marcfusch&theme=nord&no-frame=true&column=7&margin-w=8" />
-</p>
-
----
-
-<p align="center"><em>“Developing firmware by day, tuning sound systems by night.”</em></p>
